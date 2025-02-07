@@ -1,0 +1,7 @@
+it.univaq.disim.lpo.monopoli.core
+it.univaq.disim.lpo.monopoli.core.datamodel
+it.univaq.disim.lpo.monopoli.core.service
+it.univaq.disim.lpo.monopoli.core.service.enumerations
+it.univaq.disim.lpo.monopoli.core.service.exception
+it.univaq.disim.lpo.monopoli.core.service.impl
+it.univaq.disim.lpo.monopoli.core.service.impl.factoryes

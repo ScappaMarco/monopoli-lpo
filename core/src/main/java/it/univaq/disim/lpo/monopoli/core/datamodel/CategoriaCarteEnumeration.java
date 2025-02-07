@@ -1,0 +1,15 @@
+package it.univaq.disim.lpo.monopoli.core.datamodel;
+
+public enum CategoriaCarteEnumeration {
+    GUADAGNA,
+    GUADAGNADAALTRIGIOCATORI,
+    GUADAGNAINBASEALDADO,
+    TUTTIIGIOCATORIGUADAGNANO,
+    PAGA,
+    PAGAPERCASEPOSSEDUTE,
+    PAGAPERPROPRIETASENZAEDIFICI,
+    SPOSTATI,
+    ESCIDIPRIGIONE,
+    DISTRUZIONE,
+    VAIINPRIGIONE
+}
