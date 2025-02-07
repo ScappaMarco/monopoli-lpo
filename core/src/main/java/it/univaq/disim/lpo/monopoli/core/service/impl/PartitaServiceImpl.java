@@ -45,7 +45,6 @@ import it.univaq.disim.lpo.monopoli.core.service.impl.factoryes.CasellaServiceFa
 import it.univaq.disim.lpo.monopoli.core.service.impl.factoryes.PlayerServiceFactory;
 
 public class PartitaServiceImpl implements PartitaService {
-
     @Override
     public void gioca(Partita partita) {
         while (true) {
