@@ -85,40 +85,6 @@
 
 	<profiles>
 		<profile>
-			<id>javafx-windows</id>
-			<activation>
-				<os>
-					<family>windows</family>
-				</os>
-			</activation>
-			<dependencies>
-				<dependency>
-					<groupId>org.openjfx</groupId>
-					<artifactId>javafx-controls</artifactId>
-					<classifier>win</classifier>
-					<version>${javafx.version}</version>
-				</dependency>
-			</dependencies>
-		</profile>
-
-		<profile>
-			<id>javafx-mac</id>
-			<activation>
-				<os>
-					<family>mac</family>
-				</os>
-			</activation>
-			<dependencies>
-				<dependency>
-					<groupId>org.openjfx</groupId>
-					<artifactId>javafx-controls</artifactId>
-					<classifier>mac</classifier>
-					<version>${javafx.version}</version>
-				</dependency>
-			</dependencies>
-		</profile>
-
-		<profile>
 			<id>javafx-linux</id>
 			<activation>
 				<os>
